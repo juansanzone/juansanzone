@@ -10,6 +10,8 @@
 
 💳 +4 years of experience in Fintech area, leading mobile cross functional teams (iOS, Android and Backend) in order to build first class mobile payment solution with focus on KPI's and NPS.
 
+💡 My free time is also invested in programming. I have several personal ongoing side projects like:  <a href="https://apps.apple.com/us/app/ridit/id1442148798?l=es"> Ridit APP </a> or  <a href="https://apps.apple.com/us/app/waterink/id1250941742">Waterink APP</a>.
+
 👨🏻‍💻 I'm available to hear remote job offers related to Fintech area or tech mobile leadership positions.
 
 <!--
