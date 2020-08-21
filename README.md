@@ -8,7 +8,7 @@
 
 💻 I'm currently working as iOS Sr. Developer at Venmo - Paypal. (Full Remote)
 
-📱 For the last 7years I have been full dedicated to the development of iOS applications. I became really strong in iOS apps, specially in user experience interfaces and the end to end development of User-centered mobile products.
+📱 For the last 7 years I have been full dedicated to the development of iOS applications. I became really strong in iOS apps, specially in user experience interfaces and the end to end development of User-centered mobile products.
 
 💳 +4 years of experience in Fintech area, leading mobile cross functional teams (iOS, Android and Backend) in order to build first class mobile payment solution with focus on KPI's and NPS.
 
