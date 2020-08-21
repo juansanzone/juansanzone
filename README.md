@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/juansanzone/juansanzone/master/header.png" alt="banner that says Juan Sanzone - iOS developer, tech lead">
 
+## About me 🤓
+
 🏢 +13 years worked in systems development. Some of the wellknown companies I worked for were Indra, Telecom, Globant, Disney, OLX, Letgo, Mercadolibre, Mercadopago & Paypal.
 
 💻 I'm currently working as iOS Sr. Developer at Venmo - Paypal. (Full Remote)
@@ -13,6 +15,12 @@
 💡 My free time is also invested in programming. I have several personal ongoing side projects like:  <a href="https://apps.apple.com/us/app/ridit/id1442148798?l=es"> Ridit APP </a> or  <a href="https://apps.apple.com/us/app/waterink/id1250941742">Waterink APP</a>.
 
 👨🏻‍💻 I'm available to hear remote job offers related to Fintech area or tech mobile leadership positions.
+
+## Find me around the web 🌎 
+
+- Professional profile <a href="https://www.linkedin.com/in/juansanzone/">Linkedin</a>
+- Sharing iOS, Swift & mobile articles<a href="https://www.twitter.com/johnsanzo">Twitter</a>
+- My tech podcast (Spanish) <a href="https://anchor.fm/techbros">Podcast</a>
 
 <!--
 **juansanzone/juansanzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
