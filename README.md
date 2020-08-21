@@ -1,4 +1,4 @@
-# Hi, I'm Juan 👋 👨🏻‍💻
+# Hi, I'm Juan 👋
 
 <img src="https://raw.githubusercontent.com/juansanzone/juansanzone/master/header.png" alt="banner that says Juan Sanzone - iOS developer, tech lead">
 
