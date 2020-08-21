@@ -18,9 +18,9 @@
 
 ## Find me around the web 🌎 
 
-- Professional profile <a href="https://www.linkedin.com/in/juansanzone/">Linkedin</a>
-- Sharing iOS, Swift & mobile articles<a href="https://www.twitter.com/johnsanzo">Twitter</a>
-- My tech podcast (Spanish) <a href="https://anchor.fm/techbros">Podcast</a>
+- Professional profile: <a href="https://www.linkedin.com/in/juansanzone/">Linkedin</a>
+- Sharing iOS, Swift & mobile articles: <a href="https://www.twitter.com/johnsanzo">Twitter</a>
+- My tech podcast (Spanish): <a href="https://anchor.fm/techbros">Podcast</a>
 
 <!--
 **juansanzone/juansanzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
