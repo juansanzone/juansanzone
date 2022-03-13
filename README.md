@@ -4,13 +4,13 @@
 
 ## About me 🤓
 
-🏢 +13 years worked in systems development. Some of the wellknown companies I worked for were Indra, Telecom, Globant, Disney, OLX, Letgo, Mercadolibre, Mercadopago & Paypal.
+🏢 +13 years worked in systems development. Some of the wellknown companies I worked for were Indra, Telecom, Globant, Disney, OLX, Letgo, Mercadolibre, Mercadopago & Paypal, Venmo.
 
 💻 I'm currently working as iOS Sr. Developer at Venmo - Paypal. (Full Remote)
 
-📱 +7 years full dedicated to the development of iOS & mobile applications. I became really strong in iOS apps, specially in user experience interfaces and the end to end development of User-centered mobile products.
+📱 +8 years full dedicated to the development of iOS & mobile applications. I became really strong in iOS apps, specially in user experience interfaces and the end to end development of User-centered mobile products.
 
-💳 +4 years of experience in Fintech area, leading mobile cross functional teams (iOS, Android and Backend) in order to build first class mobile payment solution with focus on KPI's and NPS.
+💳 +5 years of experience in Fintech area, leading mobile cross functional teams (iOS, Android and Backend) in order to build first class mobile payment solution with focus on KPI's and NPS.
 
 💡 My free time is also invested in programming. I have several personal ongoing side projects like:  <a href="https://apps.apple.com/us/app/ridit/id1442148798?l=es"> Ridit APP </a> or  <a href="https://apps.apple.com/us/app/waterink/id1250941742">Waterink APP</a>.
 
