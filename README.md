@@ -4,7 +4,7 @@
 
 ## About me 🤓
 
-🏢 +13 years worked in systems development. Some of the wellknown companies I worked for were Indra, Telecom, Globant, Disney, OLX, Letgo, Mercadolibre, Mercadopago & Paypal, Venmo.
+🏢 +17 years worked in systems development. Some of the wellknown companies I worked for were Indra, Telecom, Globant, Disney, OLX, Letgo, Mercadolibre, Mercadopago & Paypal, Venmo.
 
 💻 I'm currently working as iOS Sr. Developer at Venmo - Paypal. (Full Remote)
 
