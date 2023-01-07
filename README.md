@@ -16,6 +16,8 @@
 
 👨🏻‍💻 I'm available to hear remote job offers related to mobile leadership positions on Fintech & Crypto area.
 
+🟩 In the last year I have been working using a private & parallel Github account. You can see my commit activity <a href="https://github.com/sanzonejuan">for that account here.</a>
+
 ## Find me around the web 🌎 
 
 - Professional profile: <a href="https://www.linkedin.com/in/juansanzone/">Linkedin</a>
