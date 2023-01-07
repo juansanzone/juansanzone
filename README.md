@@ -14,9 +14,9 @@
 
 💡 My free time is also invested in programming. I have several personal (not maintained) side projects like:  <a href="https://apps.apple.com/us/app/ridit/id1442148798?l=es"> Ridit APP </a> or  <a href="https://apps.apple.com/us/app/waterink/id1250941742">Waterink APP</a>.
 
-👨🏻‍💻 I'm available to hear remote job offers related to mobile leadership positions on Fintech & Crypto area.
+🟢 In the last year I have been working using a private & parallel Github account. You can see my commit activity <a href="https://github.com/sanzonejuan">for that account here.</a>
 
-🟩 In the last year I have been working using a private & parallel Github account. You can see my commit activity <a href="https://github.com/sanzonejuan">for that account here.</a>
+👨🏻‍💻 I'm available to hear remote job offers related to mobile leadership positions on Fintech & Crypto area.
 
 ## Find me around the web 🌎 
 
