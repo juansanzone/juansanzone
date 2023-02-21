@@ -14,6 +14,8 @@
 
 💡 My free time is also invested in programming. I have several personal (not maintained) side projects like:  <a href="https://apps.apple.com/us/app/ridit/id1442148798?l=es"> Ridit APP </a> or  <a href="https://apps.apple.com/us/app/waterink/id1250941742">Waterink APP</a>.
 
+🎸 My latest weekend side-project is named **Stuny**. Is an iOS App to record any audio and use AI to analyze and recognize the chords and see how to play.  <a href="https://apple.co/3HM88Pv">Stuny on Appstore</a> 🎹 🎸
+
 🟢 In the last year I have been working using a private & parallel Github account. You can see my commit activity <a href="https://github.com/sanzonejuan">for that account here.</a>
 
 👨🏻‍💻 I'm available to hear remote job offers related to mobile leadership positions on Fintech & Crypto area.
