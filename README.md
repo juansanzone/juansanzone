@@ -18,13 +18,13 @@ I'm available to hear remote job offers for mobile lead positions or Sr. remote 
 
 ### **Company: Latch (2 years)**
 
-#### **Latch App**
+#### **Latch App** - [Download](https://apps.apple.com/us/app/latch-app/id1062355375)
 I lead the technical development of the Door Services module, a core feature within Latch's flagship Door App. In this role:
 - Designed and implemented a dynamic SwiftUI-based navigation engine with an imperative approach tailored to support complex workflows.
 - Crafted the core architecture using MVVM principles, enriched with concepts from The Composable Architecture (TCA) to standardize and streamline implementation.
 - Contributed to the seamless integration of Apple Pay and established robust connections with HelloTech's ecosystem.
 
-#### **James App**
+#### **James App** [Download](https://apps.apple.com/ar/app/james-rider/id1643202375) 
 Additionally, I contributed to the James App, a premium passenger transportation platform akin to Uber. My responsibilities included:
 - Co-developing the architecture using SwiftUI, UIKit, and Combine for reactive programming.
 - Engineering key components such as the real-time location tracking engine.
@@ -35,19 +35,18 @@ Additionally, I contributed to the James App, a premium passenger transportation
 
 ### **Company: Solvo Finance (1.5 years)**
 
-#### **Solvo App**
+#### **Solvo App** [Download](https://www.indexventures.com/companies/solvo/)
 I worked on a DeFi fintech wallet, collaborating closely with the UX team and founders. My contributions included:
 - Building the main iOS app architecture from scratch.
 - Modularizing the app using Swift Package Manager, combined with UIKit and SwiftUI to develop a scalable architecture supporting multiple developers as a single source of truth.
 - Implementing reactive programming with Combine, MVVM, and leveraging the latest Apple technologies and UI guidelines.
 
-[Learn more about Solvo Finance](https://www.indexventures.com/companies/solvo/)
 
 ---
 
 ### **Company: PayPal (2 years)**
 
-#### **Venmo App**
+#### **Venmo App** [Download](https://apps.apple.com/us/app/venmo/id351727428) 
 I led the technical development of the Debit Card Team and Credit Card Team for the Venmo App:
 - Utilized UIKit and RxSwift for seamless development and implementation.
 
@@ -56,6 +55,8 @@ I led the technical development of the Debit Card Team and Credit Card Team for 
 ### **Company: MercadoLibre (2.5 years)**
 
 #### **MercadoLibre & MercadoPago App**
+[Mercadolibre Download](https://apps.apple.com/ar/app/mercado-libre-compras-online/id463624852) 
+[Mercadopago Download](https://apps.apple.com/ar/app/mercado-pago-cuenta-digital/id925436649) 
 I worked as an iOS Technical Lead on the Payment Experience project:
 - Led the development of QR Payments.
 - Managed the payment flow and add debit/credit card flow as the Technical Lead.
@@ -66,13 +67,13 @@ I worked as an iOS Technical Lead on the Payment Experience project:
 
 ### **Company: OLX (4 years)**
 
-#### **LetGO App**
+#### **LetGO App** [Download](https://apps.apple.com/tr/app/letgo-buy-sell-used-stuff/id986339882) 
 As an iOS Software Architect in a cross-functional autonomous team, I focused on KPI increases and data-driven features:
 - Developed the new Home Feed for the Letgo App, integrating user interests and relevant content.
 - Implemented a new Search experience with user-centered features based on search autocomplete, relevance content, and "did you mean" suggestions.
 - Delivered data-driven features related to the Item Product Page with a focus on reducing user friction and increasing KPIs in each flow.
 
-#### **OLX App**
+#### **OLX App** [Download](https://apps.apple.com/in/app/olx-buy-sell-near-you/id913492792)  
 I built the new OLX App versions 5.0 and 6.0, introducing significant improvements in UX/UI and key features such as:
 - New Posting Flow (Snap & Post project).
 - Redesigned Item Page (Ad detail screen).
