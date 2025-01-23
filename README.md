@@ -1,4 +1,6 @@
-## Professional Summary
+# Juan Sanzone (iOS Lead & Sr. Mobile Engineer)
+
+## About me
 
 My first contact with programming was when I was thirteen years old. Since that moment, I have been always programming or thinking about doing it and developing new ideas. I became passionate about programming languages, technology, and the Internet. I obtained multiple programming languages certificates from UTN (Universidad Tecnologica Nacional).
 
@@ -57,7 +59,7 @@ I led the technical development of the Debit Card Team and Credit Card Team for 
 #### **MercadoLibre & MercadoPago App**
 - [Mercadolibre Download](https://apps.apple.com/ar/app/mercado-libre-compras-online/id463624852) 
 - [Mercadopago Download](https://apps.apple.com/ar/app/mercado-pago-cuenta-digital/id925436649) 
-I worked as an iOS Technical Lead on the Payment Experience project:
+- I worked as an iOS Technical Lead on the Payment Experience project
 - Led the development of QR Payments.
 - Managed the payment flow and add debit/credit card flow as the Technical Lead.
 - Developed UI Business Components as the Technical Lead.
